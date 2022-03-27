@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading">Курс валют ЦБ</string>
+    <string name="valute_text">Валюта</string>
+    <string name="nominal_text">Номинал</string>
+    <string name="course_text">Курс</string>
+    <string name="write_sum_convert">Введите сумму для конвертации:</string>
+    <string name="convert">Конвертировать</string>
+    <string name="sum_in_valute">Сумма в валюте:</string>
+</resources>
